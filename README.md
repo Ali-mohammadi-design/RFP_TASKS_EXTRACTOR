@@ -7,14 +7,7 @@ Extracting actionable tasks from RFP (Request for Proposal) documents is often o
 ## 🔍 What This Tool Does
 
 This project provides a **three-stage pipeline** to turn PDF RFP documents into a structured list of **proposal-ready engineering tasks**, complete with effort estimation, required expertise, and delivery guidance.
-
----
-
-## 📊 Process Flow
-
-<img src="images/workflow.png" width="400"/>
-
-> ✅ **Tip**: Save the image in your repo as `images/workflow.png` (rename your uploaded image).
+.
 
 ---
 
