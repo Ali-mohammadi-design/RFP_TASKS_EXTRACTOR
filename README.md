@@ -42,7 +42,7 @@ This project is optimized for Google Colab. Simply open the provided notebook an
 2. Upload PDF(s)
 3. Add your OpenAI API key
 4. Run through stages 1 to 3
-5. Optionally export the results (CSV, TXT)
+5. Get the results (TXT)
 
 ---
 
@@ -64,7 +64,7 @@ This project is optimized for Google Colab. Simply open the provided notebook an
 The output consists of:
 - A filtered list of proposal-ready tasks
 - A detailed breakdown per task including resource estimates
-- Printable or downloadable format (optional: CSV/TXT)
+- Printable format (TXT)
 
 ---
 
